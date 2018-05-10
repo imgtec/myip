@@ -1,0 +1,12 @@
+#!/bin/bash
+
+IP="README.md"
+
+echo "\`\`\`"   >${IP}
+ifconfig       >>${IP}
+echo "\`\`\`"  >>${IP}
+
+git add ${IP}
+git commit -sm "update ip"
+git push -u origin master
+
