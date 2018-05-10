@@ -3,26 +3,26 @@ eth0      Link encap:Ethernet  HWaddr 7c:50:65:ed:d0:76
           inet addr:192.168.10.254  Bcast:192.168.10.255  Mask:255.255.255.0
           inet6 addr: fe80::2247:47ff:fe44:8848/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:59342050 errors:0 dropped:3243 overruns:0 frame:0
-          TX packets:59355557 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:69142937 errors:0 dropped:3246 overruns:0 frame:0
+          TX packets:69154061 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:9911495623 (9.9 GB)  TX bytes:9586398321 (9.5 GB)
+          RX bytes:10583199456 (10.5 GB)  TX bytes:10227766221 (10.2 GB)
 
 lo        Link encap:Local Loopback  
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
           UP LOOPBACK RUNNING  MTU:65536  Metric:1
-          RX packets:2139 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:2139 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:2179 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2179 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:0 
-          RX bytes:266186 (266.1 KB)  TX bytes:266186 (266.1 KB)
+          RX bytes:269567 (269.5 KB)  TX bytes:269567 (269.5 KB)
 
 tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
           inet addr:100.64.16.5  P-t-P:100.64.16.5  Mask:255.255.248.0
           UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
-          RX packets:3141334 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:3807058 errors:0 dropped:735 overruns:0 carrier:0
+          RX packets:3143315 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:3809102 errors:0 dropped:735 overruns:0 carrier:0
           collisions:0 txqueuelen:100 
-          RX bytes:2968834737 (2.9 GB)  TX bytes:2528366441 (2.5 GB)
+          RX bytes:2969225172 (2.9 GB)  TX bytes:2528781434 (2.5 GB)
 
 ```
