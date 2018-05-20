@@ -3,26 +3,26 @@ eth0      Link encap:Ethernet  HWaddr 7c:50:65:ed:d0:76
           inet addr:192.168.10.254  Bcast:192.168.10.255  Mask:255.255.255.0
           inet6 addr: fe80::2247:47ff:fe44:8848/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:113193817 errors:0 dropped:31692 overruns:0 frame:0
-          TX packets:118964725 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:113199970 errors:0 dropped:31693 overruns:0 frame:0
+          TX packets:118967592 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:23033642276 (23.0 GB)  TX bytes:35468888986 (35.4 GB)
+          RX bytes:23034485257 (23.0 GB)  TX bytes:35469195730 (35.4 GB)
 
 lo        Link encap:Local Loopback  
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
           UP LOOPBACK RUNNING  MTU:65536  Metric:1
-          RX packets:17506 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:17506 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:17528 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:17528 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:0 
-          RX bytes:2073514 (2.0 MB)  TX bytes:2073514 (2.0 MB)
+          RX bytes:2075330 (2.0 MB)  TX bytes:2075330 (2.0 MB)
 
 tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
           inet addr:100.64.16.4  P-t-P:100.64.16.4  Mask:255.255.248.0
           UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
-          RX packets:171190 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:53522 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:171222 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:53560 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:100 
-          RX bytes:205401032 (205.4 MB)  TX bytes:7778365 (7.7 MB)
+          RX bytes:205405914 (205.4 MB)  TX bytes:7783990 (7.7 MB)
 
 ```
