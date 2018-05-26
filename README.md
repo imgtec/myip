@@ -3,26 +3,26 @@ eth0      Link encap:Ethernet  HWaddr 20:47:47:44:88:48
           inet addr:192.168.10.254  Bcast:192.168.10.255  Mask:255.255.255.0
           inet6 addr: fe80::2247:47ff:fe44:8848/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:674242 errors:0 dropped:5562 overruns:0 frame:0
-          TX packets:342499 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:732750 errors:0 dropped:5762 overruns:0 frame:0
+          TX packets:393772 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:133567026 (133.5 MB)  TX bytes:89331178 (89.3 MB)
+          RX bytes:148429786 (148.4 MB)  TX bytes:103056144 (103.0 MB)
 
 lo        Link encap:Local Loopback  
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
           UP LOOPBACK RUNNING  MTU:65536  Metric:1
-          RX packets:2984 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:2984 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:3002 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:3002 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:0 
-          RX bytes:306653 (306.6 KB)  TX bytes:306653 (306.6 KB)
+          RX bytes:308156 (308.1 KB)  TX bytes:308156 (308.1 KB)
 
 tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
           inet addr:100.64.16.4  P-t-P:100.64.16.4  Mask:255.255.248.0
           UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
-          RX packets:15807 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:9366 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:22652 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:14235 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:100 
-          RX bytes:17436905 (17.4 MB)  TX bytes:556551 (556.5 KB)
+          RX bytes:24248892 (24.2 MB)  TX bytes:991785 (991.7 KB)
 
 ```
