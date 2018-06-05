@@ -3,26 +3,26 @@ eth0      Link encap:Ethernet  HWaddr 20:47:47:44:88:48
           inet addr:192.168.10.254  Bcast:192.168.10.255  Mask:255.255.255.0
           inet6 addr: fe80::2247:47ff:fe44:8848/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:23514216 errors:0 dropped:23612 overruns:0 frame:0
-          TX packets:27818553 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:23520432 errors:0 dropped:23613 overruns:0 frame:0
+          TX packets:27821547 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
-          RX bytes:4804916740 (4.8 GB)  TX bytes:7354470877 (7.3 GB)
+          RX bytes:4805762268 (4.8 GB)  TX bytes:7354792147 (7.3 GB)
 
 lo        Link encap:Local Loopback  
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
           UP LOOPBACK RUNNING  MTU:65536  Metric:1
-          RX packets:18489 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:18489 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:18511 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:18511 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:0 
-          RX bytes:2380709 (2.3 MB)  TX bytes:2380709 (2.3 MB)
+          RX bytes:2382525 (2.3 MB)  TX bytes:2382525 (2.3 MB)
 
 tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
           inet addr:100.64.16.4  P-t-P:100.64.16.4  Mask:255.255.248.0
           UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
-          RX packets:152809 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:102350 errors:0 dropped:0 overruns:0 carrier:0
+          RX packets:152840 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:102387 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:100 
-          RX bytes:147345083 (147.3 MB)  TX bytes:11040633 (11.0 MB)
+          RX bytes:147349913 (147.3 MB)  TX bytes:11046222 (11.0 MB)
 
 ```
